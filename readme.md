@@ -7,7 +7,7 @@
 	<br>
 </h1>
 
-Welcome to Goodness Squad!
+Welcome to [Goodness Squad](https://www.wixengevents.com/)!
 
 If you are reading this readme, chances are you've decided to contribute to [Ink](https://github.com/vadimdemedes/ink). It's good to have you here! Let's get started.
 
@@ -39,9 +39,9 @@ If you've decided to work on a particular issue, make sure to reply inside the i
 
 There are 3 types of projects:
 
-- Direct contributions to Ink
-- Standalone components
-- CLIs
+- [Direct contributions to Ink](#direct-contributions-to-ink)
+- [Standalone components](#standalone-components)
+- [CLIs](#clis)
 
 ## Direct contributions to Ink
 
